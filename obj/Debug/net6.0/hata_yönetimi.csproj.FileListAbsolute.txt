@@ -1,0 +1,15 @@
+C:\Users\konci\OneDrive\Masaüstü\cs101_exml\pratikler\hata_yönetimi\bin\Debug\net6.0\hata_yönetimi.exe
+C:\Users\konci\OneDrive\Masaüstü\cs101_exml\pratikler\hata_yönetimi\bin\Debug\net6.0\hata_yönetimi.deps.json
+C:\Users\konci\OneDrive\Masaüstü\cs101_exml\pratikler\hata_yönetimi\bin\Debug\net6.0\hata_yönetimi.runtimeconfig.json
+C:\Users\konci\OneDrive\Masaüstü\cs101_exml\pratikler\hata_yönetimi\bin\Debug\net6.0\hata_yönetimi.dll
+C:\Users\konci\OneDrive\Masaüstü\cs101_exml\pratikler\hata_yönetimi\bin\Debug\net6.0\hata_yönetimi.pdb
+C:\Users\konci\OneDrive\Masaüstü\cs101_exml\pratikler\hata_yönetimi\obj\Debug\net6.0\hata_yönetimi.csproj.AssemblyReference.cache
+C:\Users\konci\OneDrive\Masaüstü\cs101_exml\pratikler\hata_yönetimi\obj\Debug\net6.0\hata_yönetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konci\OneDrive\Masaüstü\cs101_exml\pratikler\hata_yönetimi\obj\Debug\net6.0\hata_yönetimi.AssemblyInfoInputs.cache
+C:\Users\konci\OneDrive\Masaüstü\cs101_exml\pratikler\hata_yönetimi\obj\Debug\net6.0\hata_yönetimi.AssemblyInfo.cs
+C:\Users\konci\OneDrive\Masaüstü\cs101_exml\pratikler\hata_yönetimi\obj\Debug\net6.0\hata_yönetimi.csproj.CoreCompileInputs.cache
+C:\Users\konci\OneDrive\Masaüstü\cs101_exml\pratikler\hata_yönetimi\obj\Debug\net6.0\hata_yönetimi.dll
+C:\Users\konci\OneDrive\Masaüstü\cs101_exml\pratikler\hata_yönetimi\obj\Debug\net6.0\refint\hata_yönetimi.dll
+C:\Users\konci\OneDrive\Masaüstü\cs101_exml\pratikler\hata_yönetimi\obj\Debug\net6.0\hata_yönetimi.pdb
+C:\Users\konci\OneDrive\Masaüstü\cs101_exml\pratikler\hata_yönetimi\obj\Debug\net6.0\hata_yönetimi.genruntimeconfig.cache
+C:\Users\konci\OneDrive\Masaüstü\cs101_exml\pratikler\hata_yönetimi\obj\Debug\net6.0\ref\hata_yönetimi.dll
